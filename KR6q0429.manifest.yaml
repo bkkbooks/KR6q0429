@@ -21,13 +21,13 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0429_000.yaml, hash: 'sha256:14b92143cb7331b089bae5e00c0691067131301ad4454e8a9e811ef776f9466b'}
+  - {seq: 0, filename: KR6q0429_000.yaml, hash: 'sha256:41e2def168f1f4765be089e195d7aa3d06fb639e6a2b30aa594db85bfb5a82c3'}
   - {seq: 1, filename: KR6q0429_001.yaml, hash: 'sha256:4964fbf27af87517f8851de85c6cef7d07f997a25f2f427d86ca495dcd3cdfff'}
   - {seq: 2, filename: KR6q0429_002.yaml, hash: 'sha256:ecebce7a6309ebf8acdf85d3b585632acb3a6374c94b82b48e1647c7f2d44d51'}
   - {seq: 3, filename: KR6q0429_003.yaml, hash: 'sha256:195e0378f0660dbfa49cf8e29ff3e0ead018adbc1b67547e6b68e342cf7ce6a9'}
   - {seq: 4, filename: KR6q0429_004.yaml, hash: 'sha256:94bf46ff7742341deb272612c650b0340823a224965eb7a261de18dfabccb2a9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0429_000.markers.yaml, hash: 'sha256:3a03019b0c86968cac3370164522036593a13639e3483cf669eb9d900447b742'}
+  - {seq: 0, role: markers, filename: assets/KR6q0429_000.markers.yaml, hash: 'sha256:f35515ec3026c09fdeabde038b408d2a0cbfa4cb5c1fdb3581bc380866d1b5fb'}
   - {seq: 1, role: markers, filename: assets/KR6q0429_001.markers.yaml, hash: 'sha256:08e203bccb9e4965b98c07c7428af169c9c137be671ebd56714e695e3cd691b8'}
   - {seq: 2, role: markers, filename: assets/KR6q0429_002.markers.yaml, hash: 'sha256:66977ae6ec71de0e0f230f9e2596fb037633fc421ae8699b04716903e26ee1fa'}
   - {seq: 3, role: markers, filename: assets/KR6q0429_003.markers.yaml, hash: 'sha256:73da3e704b3d30c4f25564a4e28fccb48c5b83e091e58d978f664b01444149c7'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0429_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0429_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 譚貞默序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0429_J_000-mulu-3
     span:
-    - front
+    - body
     - 757
     - 757
   label: 嚴大參敘
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0429_J_000-mulu-4
     span:
-    - front
+    - body
     - 1316
     - 1316
   label: 葉紹顒敘
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0429_J_000-mulu-5
     span:
-    - front
+    - body
     - 1593
     - 1593
   label: 張銖敘
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0429_J_000-mulu-6
     span:
-    - front
+    - body
     - 1930
     - 1930
   label: 王相說敘
@@ -97,7 +97,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0429_J_000-mulu-7
     span:
-    - front
+    - body
     - 2233
     - 2233
   label: 開堂啟
@@ -107,7 +107,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0429_J_000-mulu-8
     span:
-    - front
+    - body
     - 2617
     - 2617
   label: 目次
@@ -2023,7 +2023,7 @@ table_of_contents:
   label: 為新玄道者火
   type: mulu
   level: 1
-hash: sha256:1cfcd181db6c02e93760cf8b64e31d899b57edd81dfe4653bd46d1b8a2783e31
+hash: sha256:f874045e8cfec51710755c816ae679391e335fe26e4dfc707e9c31b925af1ff5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
